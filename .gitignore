@@ -1,0 +1,20 @@
+# Entorno virtual
+.venv/
+
+# Caché Python
+__pycache__/
+*.pyc
+
+# Datos sensibles
+data/raw/
+data/processed/
+
+# Modelos entrenados
+models/
+
+# Reportes generados
+reports/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
